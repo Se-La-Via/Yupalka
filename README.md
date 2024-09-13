@@ -7,4 +7,5 @@ Features:
 - Engaging with your referrals adds an extra incentive to be actively involved.
 
 Website: https://yupik.fun/
+
 https://t.me/yupland
